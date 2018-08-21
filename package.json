@@ -3,14 +3,16 @@
   "description": "Gatsby default starter",
   "version": "1.0.0",
   "dependencies": {
-    "@wireapp/react-ui-kit": "2.2.3",
+    "@wireapp/react-ui-kit": "2.5.0",
     "babel-plugin-styled-components": "1.5.1",
+    "core-js": "2.5.7",
     "gatsby": "next",
     "gatsby-plugin-react-helmet": "next",
     "gatsby-plugin-styled-components": "next",
-    "react": "16.4.1",
-    "react-dom": "16.4.1",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
     "react-helmet": "5.2.0",
+    "recompose": "0.27.1",
     "styled-components": "3.4.0"
   },
   "keywords": [
@@ -25,7 +27,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "1.13.7"
+    "prettier": "1.14.2"
   },
   "repository": {
     "type": "git",
